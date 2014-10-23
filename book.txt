@@ -3,3 +3,4 @@ My cool book
 First page.
 Second page.
 Third page.
+cool
